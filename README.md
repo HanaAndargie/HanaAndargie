@@ -20,17 +20,18 @@
 ---
 
 ### 🛠️ Tech Stack
+
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,postgres" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,django,c,cpp,php,js,nodejs,react,express,html,css,bootstrap,matlab,mysql,linux,windows,github,notion,unity" />
 </p>
+
 **Languages:** Python (Django), C, C ++, PHP, JavaScript (Node.js, React.js, Express.js), HTML5, CSS, Bootstrap, MATLAB, SQL  
 **OS environments:** Linux, Windows, ROS  
 **Tools:** GitHub, Notion, Overleaf  
-**Software:** Unreal Engine 5, Unity, Blueprint, LTspice  
+**Software:** Unreal Engine 5, Unity, Blueprint, LTspice
 
----
+
 
 ### 🎓 Education
 **Bachelor of Computer Engineering**  
@@ -68,7 +69,7 @@ Graduated with a comprehensive degree in Computer Engineering, building a strong
 - Presented weekly paper reviews to the team.
 
 
-### 📈 My Stats
+<!-- ### 📈 My Stats
 <table align="center">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HanaAndargie&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /></td>
@@ -78,4 +79,4 @@ Graduated with a comprehensive degree in Computer Engineering, building a strong
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanaAndargie&theme=radical" alt="Streak Stats" />
-</p>
+</p> -->
